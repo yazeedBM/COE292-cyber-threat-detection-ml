@@ -43,7 +43,7 @@ Label → Binary classification (0 = Normal, 1 = Malicious)
 
 Attack_Type → Specific attack category
 
-🔎 Features Used
+Features Used
 
 Key network features include:
 
